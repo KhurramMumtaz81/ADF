@@ -1,0 +1,9 @@
+{
+	"name": "km-test-data-factory",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "143e0041-caf9-4518-8777-cb086a26b2cc",
+		"tenantId": "444ef27b-9d2f-4969-a3db-109eaf5983c2"
+	}
+}
