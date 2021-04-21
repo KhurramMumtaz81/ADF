@@ -1,5 +1,5 @@
 {
-	"name": "pipeline1",
+	"name": "CopyData_DataFlow_Test",
 	"properties": {
 		"activities": [
 			{
